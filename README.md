@@ -17,7 +17,3 @@ There are 6 modules used in this software :
 
 5. level3:- Questions from level 3
 
-
-
-
-
