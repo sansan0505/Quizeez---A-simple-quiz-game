@@ -20,5 +20,4 @@ There are 6 modules used in this software :
 
 
 
-# Note: Create an sql database 'quiz' with the questions before proceeding with the python code
 
