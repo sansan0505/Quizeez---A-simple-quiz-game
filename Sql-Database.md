@@ -60,4 +60,4 @@
 
    
 7. Done!
-You have now created a quiz database and a table to store quiz questions. You can continue adding tables for user data, scores, or any other data you need for your project.
+You have now created a quiz database and a table to store quiz questions. You can continue adding tables for user data, scores, or any other data.
